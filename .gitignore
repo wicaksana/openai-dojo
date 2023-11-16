@@ -1,0 +1,5 @@
+.env
+.idea
+venv/
+openai-embedding-example/archive/Reviews.csv
+openai-embedding-example/output/*.pkl

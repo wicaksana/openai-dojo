@@ -1,0 +1,10 @@
+openai
+openai[embeddings]
+python-dotenv
+pandas
+tiktoken
+jupyter
+scikit-learn
+matplotlib
+numpy
+plotly
