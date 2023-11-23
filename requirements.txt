@@ -8,3 +8,6 @@ scikit-learn
 matplotlib
 numpy
 plotly
+langchain
+neo4j
+sentence-transformers
